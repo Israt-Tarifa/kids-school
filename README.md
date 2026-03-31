@@ -4,8 +4,7 @@ A responsive and colorful website designed for a kids’ school, showcasing curr
 
 ## Demo
 
-> **Live Preview:**  
-> (https://israt-tarifa.github.io/-Pro-h2/)
+> **Live Preview:**(https://israt-tarifa.github.io/kids-school/)
 
 ## Features
 
@@ -15,17 +14,16 @@ A responsive and colorful website designed for a kids’ school, showcasing curr
 - **Stories / Blog Section** – Highlighting school events, workshops, and news
 - **Footer** – Contact information, social media links, and about school
 
-## Screenshots
 
-![Banner Section](assets/hero-kids.png)
-![Curriculum Cards](assets/kinder.png)
-![Stories Section](assets/story-1.png)
 
 ## Technologies Used
 
 - **HTML5** – Structure of the website
 - **CSS3** – Styling with custom CSS
 - **Responsive Design** – Mobile-friendly layout
-- *(Optional: Add JavaScript for interactive features)*
 
-## Folder Structure
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/kids-school.git
