@@ -9,7 +9,7 @@ A responsive and colorful website designed for a kids’ school, showcasing curr
 ![Home Page](front.png)
 
 ### Curriculum Section
-![Curriculum](curriculum.png)
+![Curriculum](cariculam.png)
 
 ### Stories Section
 ![Stories](stories.png)
