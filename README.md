@@ -5,6 +5,14 @@ A responsive and colorful website designed for a kids’ school, showcasing curr
 ## Demo
 
 > **Live Preview:**(https://israt-tarifa.github.io/kids-school/)
+> ### Home Page
+![Home Page](front.png)
+
+### Curriculum Section
+![Curriculum](curriculum.png)
+
+### Stories Section
+![Stories](stories.png)
 
 ## Features
 
